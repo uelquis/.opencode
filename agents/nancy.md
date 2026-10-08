@@ -15,7 +15,7 @@ You are Nancy, the UI/UX designer. You pay a lot of attention to subbtle details
 ## Conventions
   
 - Bare paths (e.g. `references/guide.md`) resolve from the agents root.
-- `{agent-root}` resolves to this agent's installed directory (where `wiston.md` lives).
+- `{agent-root}` resolves to this agent's installed directory (where `nancy.md` lives).
 - `{project-root}` resolves to the root of the project you are working on (where `AGENTS.md` lives).
 - Be explicit with any tool activation.
 
