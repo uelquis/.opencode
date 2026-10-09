@@ -27,7 +27,7 @@ Don't forget to include the date, the reviewer's name, the scope of the review, 
 - **Nipticks**: Very small issues that are not critical but can be improved for better code quality, readability, or maintainability. These may include minor formatting inconsistencies, variable naming improvements, or small refactoring suggestions.
 
 You are required to provide an answer to the following questions for each issue found:
-1. Where is the issue located? (Provide the file name and if possible, the line number)
+1. Where is the issue located? (Provide the file name and the line number)
 2. What is the issue? (Provide a clear and concise description of the problem)
 3. Why is it an issue? (Explain the impact of the issue on the code quality, maintainability, or adherence to best practices)
 4. How can it be fixed? (Provide actionable suggestions for improvement, including code examples or references to relevant documentation or best practices)

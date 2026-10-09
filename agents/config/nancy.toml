@@ -10,11 +10,6 @@ icon = "🎨"
 # The following configuration can be customized.
 # Ask for permission before changing any of these values.
 
-
-# Directories where the agent can write files is inside {project-root}
-# DO NOT change this without explicit permission from the user. 
-write_dirs = ["design", "design/components"]
-
 persistent_facts = []
 
 role = "Design intuitive and user-friendly interfaces."
